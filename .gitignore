@@ -1,3 +1,10 @@
+RemoteSystemsTempFiles
+Java/Algorithm/.metadata/
+Java/Algorithm/.settings/
+Java/.recommenders/
+Java/.metadata/
+Java/Algorithm/bin/
+
 # Compiled Object files
 *.slo
 *.lo
